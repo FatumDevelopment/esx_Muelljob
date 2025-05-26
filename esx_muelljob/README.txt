@@ -8,7 +8,7 @@ ESX Mülljob (FatumDev) - Komplettpaket
 ✔️ Müllsack + Animation
 ✔️ Server-Bezahlung + Outfit-Logik
 ✔️ Reset zu Standardkleidung bei Jobende
-
+✔️ alles anpassbar!
 Installation:
 1. Entpacke nach resources/esx_muelljo
 2. Trage in die server.cfg ein:
