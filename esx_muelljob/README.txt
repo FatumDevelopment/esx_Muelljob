@@ -10,9 +10,9 @@ ESX Mülljob (FatumDev) - Komplettpaket
 ✔️ Reset zu Standardkleidung bei Jobende
 
 Installation:
-1. Entpacke nach resources/esx_muelljob_complete
+1. Entpacke nach resources/esx_muelljo
 2. Trage in die server.cfg ein:
-   ensure esx_muelljob_complete
+   ensure esx_muelljob
 3. Server starten & loslegen!
 
 Erstellt von FatumDev
