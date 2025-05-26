@@ -1,2 +1,3 @@
-Dieses Script ist nicht ganz fertig!
-Ihr müsst noch selbst die spawnpunkte bzw Coords setzen für die Route mehr nicht!
+- Dieses Script ist nicht ganz fertig!
+- Ihr müsst noch selbst die spawnpunkte bzw Coords setzen für die Route mehr nicht!
+- Alles auf Deutsch da eigener Code
